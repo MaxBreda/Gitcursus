@@ -1,9 +1,2 @@
-Eerste regel bruh
-
-Regel 2 ctrl+S
-
-Regel 3 + opslaan
-
-Regeltje vier
-
-5
+open: The term 'open' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
